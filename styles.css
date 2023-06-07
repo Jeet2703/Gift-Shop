@@ -1,0 +1,107 @@
+/* For Home Page */
+.navbar-bg {
+    background-color: #FF8976;
+  }
+
+.logo {
+    height: 100px;
+    width: 200px;
+  }
+
+#iconsright {
+    margin-left: 3px;
+    cursor: pointer;
+  }
+
+.icons {
+    padding: 10px 10px 30px 10px;
+  }
+
+#searchbar {
+  margin-left: 35rem;
+  margin-bottom: 2px;
+  width: 430px;
+}
+
+#searchbtnsize {
+  margin-left: 10px;
+}
+
+.mybtn {
+    margin-left: 30px;
+    padding-right: 40px;
+    margin-top: 10px;
+    padding-bottom: 10px;    
+  }
+
+.dropbtn {
+  background-color: #8AC7DB;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+
+.dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+  }
+
+.container-bg {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-color: #8AC7DB;
+  }
+
+.container {
+    /* width: 100%; */
+    /* height: 10px; */
+  }
+
+.card {
+    width: 100% !important;
+    border-radius: 25px;
+  }
+
+/* .slidebtn {
+  color: aliceblue;
+  background-color: none;
+} */
+
+#carousel2 {
+  margin-top: -4rem !important;
+}
+
+#carousel3 {
+    margin-top: -4rem !important;
+  }
+
+#carousel4 {
+    margin-top: -3rem !important;
+  }
+
+  #carousel5 {
+    margin-top: -3rem !important;
+  }
+
+.top {
+  margin-top: -60rem;
+  padding-left: 30rem;
+}
+
+.imgsize {
+  height: 250px;
+  max-height: 250px;
+  min-height: 250px;
+}
+
+/* For Mens Birthday Gifts */
+
+#mbgcard {
+  margin-top: 5rem !important;
+}
+
+#mbgfoot {
+  margin-top: 2rem !important;
+}
